@@ -1,0 +1,2 @@
+# rightinfo
+rightinfo
