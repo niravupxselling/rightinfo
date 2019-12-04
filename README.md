@@ -1,8 +1,8 @@
 # rightinfo
 rightinfo
 
-#Copy prod files
+# Copy prod files
 cp -r dist/* ../fb.github.io/
 
-#start server for https
+# start server for https
 ./ngrok http 8080
